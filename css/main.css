@@ -1,0 +1,30 @@
+/* Inserta tu código aqui */
+span{
+	position: absolute;
+	color:#fff;
+	right: 0;
+	bottom: 0;
+	padding: 5px;
+}
+.contenedor{
+	width: 700px;
+	margin:0 auto;
+}
+.linea{
+	width: 50px;
+	border: 2px solid #000;
+	margin-bottom: 15px
+}
+.box-img{
+	display: inline-block; 
+	width: 211px;
+	height: 211px;
+	position: relative;
+	margin: 5px;
+	background: rgba(0, 0, 0, 0.8)
+}
+.overlay{
+	width: 211px;
+	height: 211px;
+	opacity: 0.5;
+}
